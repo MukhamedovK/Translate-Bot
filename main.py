@@ -12,7 +12,7 @@ from state import *
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "6251779786:AAG3lZJXf7u2-r7rBOW29ZhSiCbEL7ZF3zw"
+BOT_TOKEN = "6464567668:AAG2_1HtgPtR09TErwbN0Giggoy8pSmhMIM"
 
 bot = Bot(token=BOT_TOKEN, parse_mode='html')
 storage = MemoryStorage()
